@@ -174,3 +174,4 @@ c:\Internship\Hitek\MapTracker\Backend\Maptracker\obj\Debug\net9.0\Maptracker.Mv
 C:\Internship\Hitek\MapTracker\Backend\Maptracker\obj\Debug\net9.0\Maptracker.sourcelink.json
 C:\Internship\Hitek\MapTracker\Backend\Maptracker\bin\Debug\net9.0\DotNetEnv.dll
 C:\Internship\Hitek\MapTracker\Backend\Maptracker\bin\Debug\net9.0\Sprache.dll
+C:\Internship\Hitek\MapTracker\Backend\Maptracker\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,3 +1,4 @@
+namespace DeviceCoordinatesApi.Models;
 public class TrackingEventDto
 {
     public Guid OId { get; set; }

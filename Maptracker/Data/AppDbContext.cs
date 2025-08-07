@@ -11,5 +11,6 @@ public class AppDbContext : DbContext
     }
 
     public DbSet<Device> GPS_Device { get; set; }
+    public DbSet<User> GPS_MapUser { get; set; }
     public DbSet<TrackingEvents> GPS_TrackingEvents { get; set; }
 }

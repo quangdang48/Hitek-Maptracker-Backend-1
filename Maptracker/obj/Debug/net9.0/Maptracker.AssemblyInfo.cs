@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maptracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f176819bfdbd57e46266a4d080d91e5c39a5959")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f8b9472d256427fc6a1cee42c31c71c01c8495")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maptracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maptracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
